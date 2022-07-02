@@ -1,0 +1,27 @@
+var NAVTREEINDEX0 =
+{
+"_8_n_e_t_core_app_00_version_0av6_80_8_assembly_attributes_8cs_source.html":[6,0,0,0,0,0,0],
+"_console_app1_8_assembly_info_8cs_source.html":[6,0,0,0,0,0,1],
+"_console_app1_8_global_usings_8g_8cs_source.html":[6,0,0,0,0,0,2],
+"_program_8cs_source.html":[6,0,0,1],
+"_resources.html":[1],
+"_resources_inner_page1.html":[1,0],
+"annotated.html":[5,0],
+"bug.html":[3],
+"class_console_app1_1_1_program.html":[4,0,0,0],
+"class_console_app1_1_1_program.html":[5,0,0,0],
+"classes.html":[5,1],
+"dir_2b6c9cd9a57f10e115890329aa29f26e.html":[6,0,0,0,0],
+"dir_468513c42891fc9e67603e67438400d0.html":[6,0,0,0,0,0],
+"dir_9463b6aa786be3895c0771e7751f93b7.html":[6,0,0,0],
+"dir_dc5598d73f74866f0fbd30b2bc82d7c3.html":[6,0,0],
+"files.html":[6,0],
+"functions.html":[5,2,0],
+"functions_func.html":[5,2,1],
+"index.html":[],
+"md__console_app1__docs__index.html":[0],
+"namespace_console_app1.html":[4,0,0],
+"namespaces.html":[4,0],
+"pages.html":[],
+"todo.html":[2]
+};
