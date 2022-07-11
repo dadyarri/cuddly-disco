@@ -1,4 +1,3 @@
-docs/
-ConsoleApp1/obj
-ConsoleApp1/bin
+doxygen_test/obj
+doxygen_test/bin
 !ConsoleApp1/Docs
